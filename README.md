@@ -14,3 +14,9 @@ https://unimining.net
 https://aikapool.com
 https://mecrypto.club
 https://minepool.online
+
+<table>
+<tr><td>Mining Pools/td>
+<tr><td>[ZPool](https://zpool.ca)</td>
+
+</table>
