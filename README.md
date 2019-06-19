@@ -1,5 +1,7 @@
 # Mining-Pools
 
+This page provides links to non-DINERO web sites that provide additional information about this topic. You will leave the dinerocoin.org domain, and Dinero Coin Project cannot attest to the accuracy of information on that non-Dinero page. Providing links to a non-Dinero Web site is not an endorsement of the other site or the information it contains by Dinero Coin Project. Also, be aware that the privacy protection provided on the dinerocoin.org domain (see Privacy and Security Notice) may not be available at the external link.
+
 <table>
 <tr><td>Mining Pools</td></tr>
   <tr><td>https://zpool.ca</td></tr>
