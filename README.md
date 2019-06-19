@@ -17,6 +17,10 @@ https://minepool.online
 
 <table>
 <tr><td>Mining Pools</td></tr>
-<tr><td>[ZPool](https://zpool.ca)</td></tr>
-
+  <tr><td>https://zpool.ca</td></tr>
+  <tr><td>https://zpool.ca</td></tr>
+  <tr><td>https://zpool.ca</td></tr>
+  <tr><td>https://zpool.ca</td></tr>
+  <tr><td>https://zpool.ca</td></tr>
+  <tr><td>https://zpool.ca</td></tr>
 </table>
