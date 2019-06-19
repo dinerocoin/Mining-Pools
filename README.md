@@ -16,7 +16,7 @@ https://mecrypto.club
 https://minepool.online
 
 <table>
-<tr><td>Mining Pools/<td>
-<tr><td>[ZPool](https://zpool.ca)</td>
+<tr><td>Mining Pools/<td></tr>
+<tr><td>[ZPool](https://zpool.ca)</td></tr>
 
 </table>
