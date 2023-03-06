@@ -5,9 +5,6 @@ This page provides links to non-DINERO web sites that provide additional informa
 <table>
 <tr><td>Mining Pools</td></tr>
   <tr><td>https://zpool.ca</td></tr>
-  <tr><td>https://bsod.pw</td></tr>
-  <tr><td>https://ahashpool.com</td></tr>
-  <tr><td>http://blazepool.com</td></tr>
   <tr><td>https://zergpool.com</td></tr>
   <tr><td>https://phi-phi-pool.com</td></tr>
   <tr><td>http://blockmasters.co</td></tr>
